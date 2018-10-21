@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/backgrounds">
+        <file alias="TwoPlayerWindow.png">resources/backgrounds/TwoPlayerWindow.png</file>
+        <file alias="MainWindow.png">resources/backgrounds/MainWindow.png</file>
+        <file alias="Line.png">resources/backgrounds/Line.png</file>
+        <file alias="Line2.png">resources/backgrounds/Line2.png</file>
+        <file alias="Multiplayer.png">resources/backgrounds/Multiplayer.png</file>
+        <file alias="MainMenu.png">resources/backgrounds/MainMenu.png</file>
+        <file alias="ScoreWindow.png">resources/backgrounds/ScoreWindow.png</file>
+    </qresource>
+    <qresource prefix="/data">
+        <file alias="words.txt">resources/data/words.txt</file>
+        <file alias="plants.txt">resources/data/plants.txt</file>
+        <file alias="stuff1.txt">resources/data/stuff1.txt</file>
+        <file alias="stuff2.txt">resources/data/stuff2.txt</file>
+        <file alias="stuff3.txt">resources/data/stuff3.txt</file>
+        <file alias="stuff4.txt">resources/data/stuff4.txt</file>
+        <file alias="animals.txt">resources/data/animals.txt</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file alias="FastTyping.ico">resources/icons/FastTyping.ico</file>
+    </qresource>
+</RCC>
